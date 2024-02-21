@@ -153,5 +153,15 @@ img {
     .row .col{
         width: 100%;
      }
+
+     .why-us{
+        background-color: #222222;
+        margin-bottom: 0px;
+        padding:3rem;
+     }
+
+     .steps{
+        margin-bottom: 0px;
+     }
 }
    
